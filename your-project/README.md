@@ -1,8 +1,8 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of Your Project
-Vladimir Autier
-Data Analytics, Barcelona, 25.10.19
+*Vladimir Autier
+*Data Analytics, Barcelona, 25.10.19
 
 ## Content
 - [Project Description](#project-description)
